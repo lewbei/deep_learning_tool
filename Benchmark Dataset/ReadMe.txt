@@ -1,2 +1,1 @@
-These are the jupyter notebook to extract dataset into images. 
-There are two set of dataset. Train dataset and Test dataset
+This Jupyter Notebook is used to extract images from the datasets and separate them into training and testing sets.
